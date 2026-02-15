@@ -255,7 +255,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 ### 🎨 **Development & Design Tools**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,html,css,js,git,github,vscode,ps&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,ps&theme=dark&perline=10" />
 </p>
 
 ### 🌾 **Agricultural Technology Expertise**
