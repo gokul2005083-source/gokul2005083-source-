@@ -210,7 +210,9 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 <div align="center">
 
-### 💻 **Data Analytics & Programming**
+
+
+### 💻 DATA ANALYSIS & ENGINEER 
 
 <table style="border: 3px solid #FFD700; background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);">
 <tr>
@@ -250,15 +252,18 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 <br><sub style="color: #FFFFFF;">Version Control</sub>
 </td>
 </tr>
+</table
+  
+
+</td>
+</tr>
 </table>
 
-### 🎨 **DEVELOPMENT & DESIGN **
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,ps&theme=dark&perline=10" />
-</p>
-
-## 🌾 **AGRICULTURE **
+<div align="center">
+  
+### 🪴 AGRICULTURAL ENGINEER  
 
 <table style="border: 3px solid #FFD700; background: linear-gradient(135deg, #1a1a1a 0%, #000000 100%);">
 <tr>
@@ -282,6 +287,9 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </td>
 </tr>
 </table>
+
+
+
 
 ### 🔧 **TOOLS**
 
