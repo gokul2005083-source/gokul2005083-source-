@@ -279,6 +279,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </td>
 <td align="center" width="16.66%" style="padding: 15px;">
 🐝<br><strong style="color: #FFD700;">Beekeeping</strong><br><sub style="color: #FFFFFF;">Apiculture</sub>
+  &theme=dark&perline=10"
 </td>
 </tr>
 </table>
