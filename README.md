@@ -252,13 +252,13 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
-### 🎨 **Development & Design Tools**
+### 🎨 **DEVELOPMENT & DESIGN **
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,ps&theme=dark&perline=10" />
 </p>
 
-### 🌾 **Agricultural Technology Expertise**
+## 🌾 **AGRICULTURE **
 
 <table style="border: 3px solid #FFD700; background: linear-gradient(135deg, #1a1a1a 0%, #000000 100%);">
 <tr>
@@ -279,12 +279,11 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </td>
 <td align="center" width="16.66%" style="padding: 15px;">
 🐝<br><strong style="color: #FFD700;">Beekeeping</strong><br><sub style="color: #FFFFFF;">Apiculture</sub>
-  &theme=dark&perline=10"
 </td>
 </tr>
 </table>
 
-### 🔧 **Complete Tech Stack Badges**
+### 🔧 **TOOLS**
 
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=000000&labelColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=FFD700&labelColor=000000)
@@ -331,7 +330,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 <div align="center">
 
-### 📊 **Data Analytics Projects**
+### 📊 **DATA ANALYTICS  PROJECT**
 
 <table style="border: 3px solid #FFD700; background: #000000;">
 <tr>
