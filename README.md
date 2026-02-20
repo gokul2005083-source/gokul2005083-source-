@@ -502,13 +502,17 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 <a href="mailto:gokul2005.08.3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<br><sub><b>Email Me</b></sub>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/><br>
+ <sub><b>Email Me</b></sub>
+  <td align="center" width="25%">
+  
   <a href="mailto:gokul2005.08.3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a><br>
+    <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/>
+  </a>
+  
+  <br>
   <sub><b>Email Me</b></sub>
+
+</td>
 </td>
 </td>
 <td align="center" width="25%">
