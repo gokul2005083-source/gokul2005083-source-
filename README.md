@@ -490,6 +490,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="70"/><br>
 <a href="https://linkedin.com/in/gokulraj077">
@@ -497,18 +498,15 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </a>
 <br><sub><b>Professional Network</b></sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/><br>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokul2005.08.3@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/>
-</a>
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/><br>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
- <sub><b>Email Me</b></sub>
- 
-  
+<br><sub><b>Email Me</b></sub>
 </td>
-</td>
+
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="70"/><br>
 <a href="https://github.com/gokulraj007">
@@ -516,6 +514,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </a>
 <br><sub><b>GitHub Profile</b></sub>
 </td>
+
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/phone.png" width="70"/><br>
 <a href="tel:8807844079">
@@ -523,6 +522,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </a>
 <br><sub><b>+91 8807844079</b></sub>
 </td>
+
 </tr>
 </table>
 
