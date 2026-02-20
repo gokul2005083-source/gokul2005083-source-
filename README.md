@@ -499,7 +499,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="70"/><br>
-<a href= "https://mail.google.com/gokul2005.08.3@gmail.com">
+<a href="mailto:gokul2005.08.3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
  <sub><b>Email Me</b></sub>
