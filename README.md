@@ -515,6 +515,58 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
+# 🚀 My Project
+
+> A short and clean description about your project goes here.
+
+---
+
+## 🌐 Live Website
+
+<p align="center">
+  <a href="https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/domain.png" alt="Visit Website" width="120"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the logo above to visit the website</b>
+</p>
+
+---
+
+## 🔗 Direct Link
+
+👉 https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- (Add your technologies here)
+
+---
+
+## 📌 Features
+
+- ✅ Responsive Design  
+- ✅ User Friendly Interface  
+- ✅ Fast Performance  
+- ✅ Clean UI  
+
+---
+
+## 📬 Contact
+
+If you like this project, feel free to connect with me on GitHub.
+
+---
+
+⭐ Don't forget to star the repo if you like it!
+
 <br>
 
 **🌍 Location:** Pondicherry, India | Open to Remote, Hybrid & Relocation
