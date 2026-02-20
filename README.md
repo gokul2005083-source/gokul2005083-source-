@@ -169,6 +169,9 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 <div align="center">
 
+
+<br>
+
 ### 💻 **Data Analytics & Programming**
 
 <table>
@@ -206,11 +209,14 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
+
 ### 🎨 **Development & Design Tools**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,html,css,js,git,github,vscode,ps&theme=dark&perline=10" />
 </p>
+
+<br>
 
 ### 🌾 **Agricultural Technology Expertise**
 
@@ -515,57 +521,16 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
-# 🚀 My Project
+<br>
+<tr>
+<td align="center" width="25%">
+<a href="https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50" target="_blank">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="70"/>
+</a><br>
+<b>WEBSITE</b><br>
 
-> A short and clean description about your project goes here.
-
----
-
-## 🌐 Live Website
-
-<p align="center">
-  <a href="https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" alt="Visit Website" width="120"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Click the logo above to visit the website</b>
-</p>
-
----
-
-## 🔗 Direct Link
-
-👉 https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50
-
----
-
-## 🛠️ Tech Stack
-
-- HTML  
-- CSS  
-- JavaScript  
-- (Add your technologies here)
-
----
-
-## 📌 Features
-
-- ✅ Responsive Design  
-- ✅ User Friendly Interface  
-- ✅ Fast Performance  
-- ✅ Clean UI  
-
----
-
-## 📬 Contact
-
-If you like this project, feel free to connect with me on GitHub.
-
----
-
-⭐ Don't forget to star the repo if you like it!
+</td>
+</tr>
 
 <br>
 
