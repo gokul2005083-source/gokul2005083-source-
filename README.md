@@ -504,7 +504,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 <a href="https://linkedin.com/in/gokulraj077">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br><sub><b>Professional Network</b></sub>
+<br><sub><b>Professional </b></sub>
 </td>
 
 <td align="center" width="25%">
