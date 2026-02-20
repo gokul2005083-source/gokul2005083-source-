@@ -7,44 +7,7 @@
 <!-- 3D HOLOGRAPHIC ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,5,6,7,9,11,12,14,16,20,24,30&height=300&section=header&text=🌟%20GOKUL%20RAJ%20🌟&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🌾%20Agricultural%20Engineer%20%2B%20Data%20Analytics%20Specialist%20📊&descAlignY=53&descSize=20&descAlign=50"/>
 
-<!-- 3D TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=500&color=00F7F1&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=150&lines=🚜+AGRICULTURAL+ENGINEERING+STUDENT+🌱;📊+DATA+ANALYTICS+%26+AI+SPECIALIST+🤖;🐍+Python+%7C+SQL+%7C+Power+BI+%7C+ML+⚡;🌾+AgriTech+%2B+Data+Intelligence+Revolution+🚀;💡+Building+Smart+Sustainable+Solutions+💎" alt="Typing SVG" />
-</a>
 
-<br>
-
-<!-- ANIMATED HOLOGRAM DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://linkedin.com/in/gokulraj077">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/gokulraj007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:gokul2005.08.3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="tel:8807844079">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-</p>
-
-<!-- STATUS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokul2005083-source&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/gokul2005083-source?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/LOCATION-Pondicherry%2C%20India-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/STATUS-🟢%20AVAILABLE-success?style=for-the-badge" alt="Status"/>
-</p>
-
-<!-- ANIMATED TROPHY -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gokul2005083-source&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy"/>
-</p>
 
 </div>
 
@@ -271,24 +234,6 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
-### 🔧 **Complete Tech Stack Badges**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-00D9FF?style=for-the-badge&logo=ai&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -303,19 +248,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 <br><br>
 
-<!-- STATS GRID -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokul2005083-source&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gokul2005083-source&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
 
-<!-- LANGUAGE DISTRIBUTION -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul2005083-source&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
-
-<!-- PROFILE SUMMARY -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul2005083-source&theme=radical" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 **FEATURED PROJECTS** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40">
 
@@ -441,25 +374,6 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
-### 🎓 **Skill Development Timeline**
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0D1117','primaryTextColor':'#00D9FF','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF'}}}%%
-
-graph LR
-    A[🎓 2022<br/>Started B.Tech] --> B[📊 2023<br/>Power BI Training]
-    B --> C[🤖 2024<br/>AI & ML Workshop]
-    C --> D[🌾 2024<br/>AgriTech Internship]
-    D --> E[💼 2025<br/>Data Analytics Intern]
-    E --> F[🚀 2026<br/>Graduate & Career Launch]
-    
-    style A fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px,color:#00D9FF
-    style B fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px,color:#00D9FF
-    style C fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px,color:#00D9FF
-    style D fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px,color:#00D9FF
-    style E fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px,color:#00D9FF
-    style F fill:#00D9FF,stroke:#00D9FF,stroke-width:3px,color:#000000
-```
 
 </div>
 
@@ -564,8 +478,6 @@ graph LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=130&section=header&text=🚀%20Open%20for%20Opportunities%20%26%20Collaboration%20🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=50"/>
-
 <br>
 
 ### 📫 **Contact Information**
@@ -609,61 +521,10 @@ graph LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💖 **SUPPORT MY JOURNEY**
 
-<div align="center">
 
-If you find my work interesting or valuable:
 
-<table>
-<tr>
-<td align="center" width="33%">
-⭐<br><strong>Star My Repos</strong><br>
-<a href="https://github.com/gokul2005083-source?tab=repositories">
-<img src="https://img.shields.io/badge/⭐_STAR_REPOSITORIES-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td>
-<td align="center" width="33%">
-👤<br><strong>Follow Me</strong><br>
-<a href="https://github.com/gokul2005083-source">
-<img src="https://img.shields.io/badge/👤_FOLLOW_ME-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="33%">
-📢<br><strong>Share</strong><br>
-<img src="https://img.shields.io/badge/📢_SHARE_PROFILE-FF6B6B?style=for-the-badge&logo=twitter&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7F1&center=true&vCenter=true&width=800&lines=Thank+You+for+Visiting!+🙏;Let's+Build+a+Sustainable+Future+Together!+🌱;Questions%3F+Reach+out+anytime!+📬" alt="Footer Typing SVG" />
-
----
-
-<br>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,5,6,7,9,11,12,14,16,20,24,30&height=180&section=footer&animation=twinkling"/>
-
-<!-- FOOTER BADGES -->
-<img src="https://img.shields.io/badge/Made_with_❤️_and_🌾_by-GOKUL_RAJ-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Last_Updated-February_2026-blue?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Profile_Status-🔥_ACTIVELY_CODING-success?style=for-the-badge"/>
-
-<br><br>
-
-**⭐ If my journey inspires you, star my repositories! ⭐**
-
-<br>
-
-<!-- ANIMATED FOOTER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🌾+Transforming+Agriculture+with+Data+%26+AI+🤖;💡+Where+Traditional+Wisdom+Meets+Modern+Technology+💡;⚡+Building+Tomorrow's+Smart+Farming+Solutions+Today+⚡;🚀+Agricultural+Engineer+%2B+Data+Scientist+%3D+Innovation+🚀" alt="Footer Animation" />
 
 </div>
 
