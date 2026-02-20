@@ -492,6 +492,14 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 <tr>
 
 <td align="center" width="25%">
+<a href="https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50" target="_blank">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="70"/><br>
+<img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<br><sub><b>Live Project</b></sub>
+</td>
+
+<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="70"/><br>
 <a href="https://linkedin.com/in/gokulraj077">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -526,18 +534,9 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </tr>
 </table>
 
-<br>
-<tr>
-<td align="center" width="25%">
-<a href="https://claude.ai/public/artifacts/c21d17cf-5105-4f27-8907-a01fad138f50" target="_blank">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="70"/>
-</a><br>
-<b>WEBSITE</b><br>
-
-</td>
-</tr>
 
 <br>
+
 
 **🌍 Location:** Pondicherry, India | Open to Remote, Hybrid & Relocation
 
