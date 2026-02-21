@@ -543,8 +543,24 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </div>
 
 
+---
 
+<br>
 
+---
+---
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+  <a href="https://gokulrajresume.tiiny.site" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Click the button above to explore my professional profile</sub>
+</p>
 
 
 </div>
