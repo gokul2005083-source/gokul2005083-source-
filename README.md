@@ -548,18 +548,26 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 <br>
 
 ---
----
 
-<h2 align="center">📄 Resume</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://gokulrajresume.tiiny.site" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Resume&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-  <sub>Click the button above to explore my professional profile</sub>
+<br>
+
+<a href="https://github.com/gokul2005083-source/gokul2005083-source-/raw/main/Gokul_Raj_Resume.pdf">
+  <img src="https://img.shields.io/badge/⬇%20Download%20My%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="65"/>
+</a>
+
+<br><br>
+
+<sub><b>Professional Profile | Ready for Opportunities</b></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80&section=footer"/>
+
+
 </p>
 
 
