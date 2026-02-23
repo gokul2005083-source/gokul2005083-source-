@@ -553,8 +553,10 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Resume&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<br>
 
+<br>
+<a href="https://raw.githubusercontent.com/gokul2005083-source/Resume/main/Gokul_Raj_Resume.pdf" download>
+  <img src="https://img.shields.io/badge/⬇%20Download%20My%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="65"/>
 
 </a>
 
@@ -565,6 +567,9 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80&section=footer"/>
+
+
+</a>
 
 
 </p>
