@@ -555,7 +555,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 
 
 <br>
-<a href="https://raw.githubusercontent.com/gokul2005083-source/Resume/main/Gokul_Raj_Resume.pdf" download>
+<a href="https://raw.githubusercontent.com/gokul2005083-source/Resume/main/Gokul_Raj_Resume.pdf.pdf" download>
   <img src="https://img.shields.io/badge/⬇%20Download%20My%20Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="65"/>
 
 </a>
