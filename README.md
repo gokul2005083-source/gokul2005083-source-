@@ -571,6 +571,11 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 </p>
 
 
+<a href="./Gokul_Raj_Resume.pdf" download>
+  <button>Download Resume (PDF)</button>
+</a>
+
+
 </div>
 
 <!-- ============================================ -->
