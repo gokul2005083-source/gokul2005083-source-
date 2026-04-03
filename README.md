@@ -492,7 +492,7 @@ I specialize in **AgriTech innovation** — combining hands-on farming experienc
 <tr>
 
 <td align="center" width="25%">
-<a href="https://gokulrajprofile.netlify.app/" target="_blank">
+<a href="https://gokulprofile7.netlify.app/" target="_blank">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="70"/><br>
 <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
